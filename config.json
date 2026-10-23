@@ -1,0 +1,13 @@
+{
+    "hotkey":  "Ctrl+Alt+Space",
+    "theme":  "system",
+    "accent":  "#7C6CF6",
+    "autostart":  false,
+    "startupAsked":  true,
+    "lastView":  "home",
+    "widgetVisible":  true,
+    "widgetImage":  "",
+    "widgetRight":  0,
+    "widgetBottom":  0,
+    "punish":  false
+}
